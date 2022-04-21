@@ -1,1 +1,3 @@
-This file should be ignored by git
+# .gitignore
+test.md
+node_modules/
